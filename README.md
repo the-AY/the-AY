@@ -24,3 +24,6 @@
 the-AY/the-AY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://github.com/the-AY">
+  <img src="https://komarev.com/ghpvc/?username=the-AY&label=Views&color=blue&style=plastic" alt="the-AY" />
+</a>
