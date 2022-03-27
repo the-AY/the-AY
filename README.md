@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development ,Web Development,Cyber Security
 - 🌱 I’m currently learning Web Devlopment
 - 💞️ I’m looking to collaborate on Web dev
-- 📫 
+- 📫 <br>
 ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
